@@ -1,0 +1,2 @@
+Steven Dea and Darlene Pham output:
+200 100 3 2 1 
